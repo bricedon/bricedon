@@ -59,7 +59,10 @@ Transition into a professional cybersecurity role where I can apply my skills in
 <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA_CySA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA_PenTest%2B-000080?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZCC4ZR75LEPY" target="_blank">
+  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
 </div>  
 
 *(Network+, Security+, CySA+, PenTest+ and Google Cybersecurity are in progress / planned for 2025–2026.)*

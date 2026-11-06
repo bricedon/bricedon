@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/brice-donfack-bbaa39199"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Cybersecurity and IT professional with a strong foundation in technology operations, troubleshooting, and security.  
-Currently completing my **Bachelor’s in Cyber Operations at UMGC**, after earning an **Associate Degree in Cybersecurity (CCBC)** and a **Bachelor’s in Chemistry (Université de Yaoundé I)**.  
-My goal is to grow into a **Cybersecurity Analyst (SOC Tier 1 / Entry Level)** role, while building experience through IT support and security projects.  
+I hold a **B.S. in Cyber Operations from UMGC** (May 2026 · GPA 3.82 · Dean’s List), an **A.S. in Cybersecurity from CCBC** (Summa Cum Laude · Phi Theta Kappa · Upsilon Pi Epsilon), and a prior **chemistry degree from Université de Yaoundé I** (WES-evaluated).  
+I am targeting **SOC Analyst, Security Analyst, and IAM** roles, building on 5+ years at Amazon and earlier help desk work supporting Active Directory and Windows Server environments.  
 
 ---
 
@@ -53,19 +53,24 @@ Transition into a professional cybersecurity role where I can apply my skills in
 
 ## 🎓 Certifications  
 
+### ✅ Earned
 <div>
-<img src="https://img.shields.io/badge/-CCNA-0066CC?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_CySA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_PenTest%2B-000080?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_Security%2B_(2026)-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_Network%2B_(2026)-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_(2026)-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2_Certified_in_Cybersecurity_(CC)-2E7D32?&style=for-the-badge&logoColor=white" />
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZCC4ZR75LEPY" target="_blank">
   <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?style=for-the-badge&logo=Google&logoColor=white" />
 </a>
+<img src="https://img.shields.io/badge/-Google_IT_Support_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
 
-</div>  
-
-*(Network+, Security+, CySA+, PenTest+ and Google Cybersecurity are in progress / planned for 2025–2026.)*
+### 📚 In Progress
+<div>
+<img src="https://img.shields.io/badge/-CompTIA_A%2B-555555?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_CySA%2B-555555?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_PenTest%2B-555555?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 
 ---
 
@@ -80,8 +85,14 @@ Transition into a professional cybersecurity role where I can apply my skills in
 - **SOC Automation Project**  
   Worked with **TheHive & Shuffle SOAR** to streamline alert triage and case management.  
 
+- **Certification Coach** *(in development)*  
+  A study app I am building to prepare for CompTIA (A+, Network+, Security+, CySA+, PenTest+), Microsoft (AZ-900, SC-900, SC-300) and AWS (CLF-C02) exams — explains official exam terminology in plain language for bilingual English/French learners.  
+
+- **CMMC Level 1 Compliance Toolkit — Blawe Group LLC**  
+  Founded a compliance consultancy and scoped a packaged **CMMC Level 1** offering to help small defense contractors meet basic cybersecurity requirements, with ongoing maintenance support. Also covers **HIPAA** readiness.  
+
 ---
 
 📫 Let’s connect:  
 📧 donfackbrice98@gmail.com  
-📍 Dayton, OH | Bilingual: English 🇺🇸 / French 🇫🇷  
+📍 Dayton / Wright-Patterson area, OH | Bilingual: English 🇺🇸 / French 🇫🇷  

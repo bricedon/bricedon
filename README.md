@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/brice-donfack-bbaa39199"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Cybersecurity and IT professional with a strong foundation in technology operations, troubleshooting, and security.  
-I hold a **B.S. in Cyber Operations from UMGC** (May 2026 · GPA 3.82 · Dean’s List), an **A.S. in Cybersecurity from CCBC** (Summa Cum Laude · Phi Theta Kappa · Upsilon Pi Epsilon), and a prior **chemistry degree from Université de Yaoundé I** (WES-evaluated).  
+I hold a **B.S. in Cyber Operations from UMGC** (May 2026 · GPA 3.82 · Dean’s List), an **A.S. in Cybersecurity from CCBC** (Summa Cum Laude · Phi Theta Kappa · Upsilon Pi Epsilon), and a **Master’s Degree in Sciences from Université de Yaoundé I** (WES: U.S. bachelor’s plus two years of graduate study).  
 I am targeting **SOC Analyst, Security Analyst, and IAM** roles, building on 5+ years at Amazon and earlier help desk work supporting Active Directory and Windows Server environments.  
 
 ---
@@ -64,6 +64,27 @@ Transition into a professional cybersecurity role where I can apply my skills in
 </a>
 <img src="https://img.shields.io/badge/-Google_IT_Support_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
+
+### 🔎 Verify My Credentials
+
+| Certification | Issued – Expires | Verification |
+|---|---|---|
+| CompTIA Security+ (SY0-701) | Jul 2026 – Jul 2029 | Code `957ed5f47d0a4ba79b84357588714c56` · [verify.comptia.org](https://verify.comptia.org) |
+| CompTIA Network+ (N10-009) | Oct 2026 – Oct 2029 | Code `523de4c272da4e3eb23a6ed6ed6a59c8` · [verify.comptia.org](https://verify.comptia.org) |
+| AWS Certified Cloud Practitioner (CLF-C02) | Oct 2026 – Oct 2029 | Validation no. `b3ee452602874947a66452719793353b` · [aws.amazon.com/verification](https://aws.amazon.com/verification) |
+| ISC2 Certified in Cybersecurity (CC) | Apr 2026 – Mar 2029 | Certification no. `3052667` · [ISC2 member verification](https://www.isc2.org/MemberVerification) |
+| Google Cybersecurity Professional Certificate | Jan 2026 | [Coursera certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ZCC4ZR75LEPY) |
+
+### 🧩 Professional Training
+<div>
+<img src="https://img.shields.io/badge/-Cisco_CCNA:_Switching,_Routing_%26_Wireless_Essentials-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Defense_Analyst_Path-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-CodePath_CYB102_Intermediate_Cybersecurity-1F1F1F?&style=for-the-badge&logoColor=white" />
+</div>
+
+- Cisco CCNA: Switching, Routing, and Wireless Essentials — Cisco Networking Academy (Mar 2024); completed Cisco CCNA I–III coursework at CCBC  
+- Cisco Cybersecurity Defense Analyst Career Path (Aug 2026)  
+- CodePath Intermediate Cybersecurity, CYB102 (May 2025)  
 
 ### 📚 In Progress
 <div>

@@ -55,6 +55,10 @@ Transition into a professional cybersecurity role where I can apply my skills in
 
 ### ✅ Earned
 <div>
+<a href="https://www.credly.com/go/0sHLTJc2CT3WPBI3eRUpQA" target="_blank"><img src="https://img.shields.io/badge/-CompTIA_CySA%2B_(2026)-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/go/lV07klkMpBBFFu99wuTSrg" target="_blank"><img src="https://img.shields.io/badge/-CompTIA_PenTest%2B_(2026)-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/go/OJcEOBFcuxfj11nDwAGsHA" target="_blank"><img src="https://img.shields.io/badge/-CompTIA_CSAP_Security_Analytics_Professional-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/go/uxFcqfP5lzsGx5LJKC3HrA" target="_blank"><img src="https://img.shields.io/badge/-CompTIA_CNSP_Network_Security_Professional-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-CompTIA_Security%2B_(2026)-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA_Network%2B_(2026)-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_(2026)-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
@@ -69,11 +73,16 @@ Transition into a professional cybersecurity role where I can apply my skills in
 
 | Certification | Issued – Expires | Verification |
 |---|---|---|
+| CompTIA CySA+ ce | Nov 2026 – Nov 2032 | [Credly badge](https://www.credly.com/go/0sHLTJc2CT3WPBI3eRUpQA) |
+| CompTIA PenTest+ ce | Nov 2026 – Nov 2032 | [Credly badge](https://www.credly.com/go/lV07klkMpBBFFu99wuTSrg) |
+| CompTIA Security Analytics Professional (CSAP) — Stackable | Nov 2026 – Nov 2032 | [Credly badge](https://www.credly.com/go/OJcEOBFcuxfj11nDwAGsHA) |
+| CompTIA Network Security Professional (CNSP) — Stackable | Nov 2026 – Nov 2032 | [Credly badge](https://www.credly.com/go/uxFcqfP5lzsGx5LJKC3HrA) |
 | CompTIA Security+ (SY0-701) | Jul 2026 – Jul 2029 | Code `957ed5f47d0a4ba79b84357588714c56` · [verify.comptia.org](https://verify.comptia.org) |
 | CompTIA Network+ (N10-009) | Oct 2026 – Oct 2029 | Code `523de4c272da4e3eb23a6ed6ed6a59c8` · [verify.comptia.org](https://verify.comptia.org) |
 | AWS Certified Cloud Practitioner (CLF-C02) | Oct 2026 – Oct 2029 | Validation no. `b3ee452602874947a66452719793353b` · [aws.amazon.com/verification](https://aws.amazon.com/verification) |
 | ISC2 Certified in Cybersecurity (CC) | Apr 2026 – Mar 2029 | Certification no. `3052667` · [ISC2 member verification](https://www.isc2.org/MemberVerification) |
 | Google Cybersecurity Professional Certificate | Jan 2026 | [Coursera certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ZCC4ZR75LEPY) |
+| Google IT Support Professional Certificate (v.3) | Aug 2026 | Credential ID `CKU6BUSLQHHP` |
 
 ### 🧩 Professional Training
 <div>
@@ -89,8 +98,6 @@ Transition into a professional cybersecurity role where I can apply my skills in
 ### 📚 In Progress
 <div>
 <img src="https://img.shields.io/badge/-CompTIA_A%2B-555555?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_CySA%2B-555555?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_PenTest%2B-555555?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ---

@@ -109,6 +109,7 @@
 
 | | Project | What I did |
 |---|---|---|
+| 🛠️ | **[IT Support Portfolio](https://github.com/bricedon/it-support-portfolio)** | PowerShell & Python tools: endpoint health check, network/printer device checker, AD lockout & password reset tool, SLA ticket tracker, and support runbooks |
 | 🔴 | **UMGC Capstone — Penetration Test** | Led a simulated pen test of a financial-sector network; reported findings with CVSS scores and wrote a NIST-aligned incident response plan |
 | 🔵 | **SOC Automation Lab** | Built an alert triage and case management workflow with TheHive and Shuffle SOAR |
 | 📊 | **SIEM & Log Analysis Labs** | Splunk and Microsoft Sentinel searches, alert triage, and Windows / Linux log review |

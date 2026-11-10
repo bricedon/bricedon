@@ -57,23 +57,23 @@ Also: **[IT Support Portfolio](https://github.com/bricedon/IT-support-portfolio)
 <td align="center" width="50%"><b>CompTIA PenTest+</b><br/><sub>Nov 2026 · <a href="https://www.credly.com/go/lV07klkMpBBFFu99wuTSrg">Credly ↗</a></sub></td>
 </tr>
 <tr>
-<td align="center"><b>CompTIA CSAP</b><br/><sub>Security Analytics Professional · <a href="https://www.credly.com/go/OJcEOBFcuxfj11nDwAGsHA">Verify ↗</a></sub></td>
-<td align="center"><b>CompTIA CNSP</b><br/><sub>Network Security Professional · <a href="https://www.credly.com/go/uxFcqfP5lzsGx5LJKC3HrA">Verify ↗</a></sub></td>
+<td align="center"><b>CompTIA CSAP</b><br/><sub>Security Analytics Professional · <a href="https://www.credly.com/go/OJcEOBFcuxfj11nDwAGsHA">Credly ↗</a></sub></td>
+<td align="center"><b>CompTIA CNSP</b><br/><sub>Network Security Professional · <a href="https://www.credly.com/go/uxFcqfP5lzsGx5LJKC3HrA">Credly ↗</a></sub></td>
 </tr>
 <tr>
-<td align="center"><b>CompTIA CNVP</b><br/><sub>Network Vulnerability Assessment Professional · Nov 2026</sub></td>
-<td align="center"><b>CompTIA Security+</b><br/><sub>SY0-701 · Jul 2026</sub></td>
+<td align="center"><b>CompTIA CNVP</b><br/><sub>Network Vulnerability Assessment Professional · Nov 2026 · <a href="https://www.credly.com/badges/734ab8d3-ca8e-4386-922d-c714fb50ffa6/public_url">Credly ↗</a></sub></td>
+<td align="center"><b>CompTIA Security+</b><br/><sub>SY0-701 · Jul 2026 · <a href="https://www.credly.com/badges/35f441be-2c6a-4842-a045-46dcf7d08a0f/public_url">Credly ↗</a></sub></td>
 </tr>
 <tr>
-<td align="center"><b>CompTIA Network+</b><br/><sub>N10-009 · Oct 2026</sub></td>
-<td align="center"><b>AWS Certified Cloud Practitioner</b><br/><sub>CLF-C02 · Oct 2026</sub></td>
+<td align="center"><b>CompTIA Network+</b><br/><sub>N10-009 · Oct 2026 · <a href="https://www.credly.com/badges/6a53bcae-fe3a-49f0-935e-6c4665c23278/public_url">Credly ↗</a></sub></td>
+<td align="center"><b>AWS Certified Cloud Practitioner</b><br/><sub>CLF-C02 · Oct 2026 · <a href="https://www.credly.com/badges/6b9813c9-93a9-42a7-8dfb-8f704ee53f58/public_url">Credly ↗</a></sub></td>
 </tr>
 <tr>
-<td align="center"><b>ISC2 Certified in Cybersecurity</b><br/><sub>CC · Apr 2026</sub></td>
-<td align="center"><b>Google Cybersecurity Certificate</b><br/><sub>Jan 2026 · <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZCC4ZR75LEPY">Verify ↗</a></sub></td>
+<td align="center"><b>ISC2 Certified in Cybersecurity</b><br/><sub>CC · Apr 2026 · <a href="https://www.credly.com/badges/46221f95-57c2-4cf9-bb6b-6a304ec62d34/public_url">Credly ↗</a></sub></td>
+<td align="center"><b>Google Cybersecurity Certificate</b><br/><sub>Jan 2026 · <a href="https://www.credly.com/badges/087660f7-7f90-4400-a714-0e30ae0c4691/public_url">Credly ↗</a> · <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZCC4ZR75LEPY">Coursera ↗</a></sub></td>
 </tr>
 <tr>
-<td align="center"><b>Google IT Support Certificate</b><br/><sub>Aug 2026</sub></td>
+<td align="center"><b>Google IT Support Certificate</b><br/><sub>Aug 2026 · <a href="https://www.credly.com/badges/43cf70c5-f991-469e-b136-d68f680e1e25/public_url">Credly ↗</a></sub></td>
 <td align="center"><b>Google AI Professional Certificate</b><br/><sub>Aug 2026</sub></td>
 </tr>
 </table>
@@ -92,17 +92,17 @@ Also: **[IT Support Portfolio](https://github.com/bricedon/IT-support-portfolio)
 | CompTIA PenTest+ ce | Nov 2026 – Nov 2032 | `44a575290de4411faa1a819f8f6d9881` · [verify.comptia.org](https://verify.comptia.org) · [Credly](https://www.credly.com/go/lV07klkMpBBFFu99wuTSrg) |
 | CompTIA CSAP (Stackable) | Nov 2026 – Nov 2032 | [Credly](https://www.credly.com/go/OJcEOBFcuxfj11nDwAGsHA) |
 | CompTIA CNSP (Stackable) | Nov 2026 – Nov 2032 | [Credly](https://www.credly.com/go/uxFcqfP5lzsGx5LJKC3HrA) |
-| CompTIA CNVP (Stackable) | Nov 2026 | Credly badge available on request |
-| CompTIA Security+ | Jul 2026 – Jul 2029 | `957ed5f47d0a4ba79b84357588714c56` · [verify.comptia.org](https://verify.comptia.org) |
-| CompTIA Network+ | Oct 2026 – Oct 2029 | `523de4c272da4e3eb23a6ed6ed6a59c8` · [verify.comptia.org](https://verify.comptia.org) |
-| AWS Cloud Practitioner | Oct 2026 – Oct 2029 | `b3ee452602874947a66452719793353b` · [aws.amazon.com/verification](https://aws.amazon.com/verification) |
-| ISC2 CC | Apr 2026 – Mar 2029 | Cert. no. `3052667` · [ISC2 verification](https://www.isc2.org/MemberVerification) |
-| Google Cybersecurity | Jan 2026 | Credential ID `ZCC4ZR75LEPY` · [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/ZCC4ZR75LEPY) |
-| Google IT Support (v.3) | Aug 2026 | Credential ID `CKU6BUSLQHHP` |
+| CompTIA CNVP (Stackable) | Nov 2026 | [Credly](https://www.credly.com/badges/734ab8d3-ca8e-4386-922d-c714fb50ffa6/public_url) |
+| CompTIA Security+ | Jul 2026 – Jul 2029 | `957ed5f47d0a4ba79b84357588714c56` · [verify.comptia.org](https://verify.comptia.org) · [Credly](https://www.credly.com/badges/35f441be-2c6a-4842-a045-46dcf7d08a0f/public_url) |
+| CompTIA Network+ | Oct 2026 – Oct 2029 | `523de4c272da4e3eb23a6ed6ed6a59c8` · [verify.comptia.org](https://verify.comptia.org) · [Credly](https://www.credly.com/badges/6a53bcae-fe3a-49f0-935e-6c4665c23278/public_url) |
+| AWS Cloud Practitioner | Oct 2026 – Oct 2029 | `b3ee452602874947a66452719793353b` · [aws.amazon.com/verification](https://aws.amazon.com/verification) · [Credly](https://www.credly.com/badges/6b9813c9-93a9-42a7-8dfb-8f704ee53f58/public_url) |
+| ISC2 CC | Apr 2026 – Mar 2029 | Cert. no. `3052667` · [ISC2 verification](https://www.isc2.org/MemberVerification) · [Credly](https://www.credly.com/badges/46221f95-57c2-4cf9-bb6b-6a304ec62d34/public_url) |
+| Google Cybersecurity | Jan 2026 | Credential ID `ZCC4ZR75LEPY` · [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/ZCC4ZR75LEPY) · [Credly](https://www.credly.com/badges/087660f7-7f90-4400-a714-0e30ae0c4691/public_url) |
+| Google IT Support (v.3) | Aug 2026 | Credential ID `CKU6BUSLQHHP` · [Credly](https://www.credly.com/badges/43cf70c5-f991-469e-b136-d68f680e1e25/public_url) |
 | Google AI Professional Certificate | Aug 2026 | Credential ID `D04MIM3J5FY8` |
 | Cisco CCNA: Switching, Routing & Wireless Essentials | Mar 2024 | Cert ID `ba0f1c25-671c-4e16-9495-9775e9fc5772` |
 
-**Training & simulations:** Cisco Cybersecurity Defense Analyst Path (2026) · CodePath CYB102 Intermediate Cybersecurity, honors (2025) · AIG *Shields Up* Cybersecurity Job Simulation: zero-day response and ransomware (Forage, 2025) · EBIOS Risk Manager risk-analysis method (Club EBIOS, 2025, in French) · ISC2 CC domain courses 1–5 · CompTIA CySA+ and PenTest+ exam prep (2026)
+**Training & simulations:** [Cisco Cybersecurity Defense Analyst Career Path, with Splunk](https://www.credly.com/badges/c3d7d193-2046-45f8-a9d7-9d9c3b35fd0c/public_url) (2026) · CodePath CYB102 Intermediate Cybersecurity, honors (2025) · AIG *Shields Up* Cybersecurity Job Simulation: zero-day response and ransomware (Forage, 2025) · EBIOS Risk Manager risk-analysis method (Club EBIOS, 2025, in French) · ISC2 CC domain courses 1–5 · CompTIA CySA+ and PenTest+ exam prep (2026)
 
 </details>
 
